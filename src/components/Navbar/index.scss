@@ -1,0 +1,58 @@
+.nav-bar {
+    background: #03050a;
+    width: 100%;
+    height: 50px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 10;
+  
+  
+    nav {
+      display: inline;
+      text-align: center;
+      position: absolute;
+      height:50px;
+      top: 20%;
+      width: 100%;
+      overflow: nowrap;
+
+  
+      a {
+        font-size: 140%;
+        color: #ffffffc4;
+        display: inline;
+        position: relative;
+        text-decoration: clip;
+        margin: 0 1%;
+  
+        i {
+          transition: all 0.3s ease-out;
+        }
+  
+        &:hover {
+          color: #ffd700;
+          .anchor-icon {
+            color: #ffd700;
+          }
+
+  
+          svg {
+            opacity: 1;
+          }
+  
+          &:after {
+            opacity: 1;
+          }
+        }
+  
+      
+      }
+    }
+  
+  
+  .hamburger-icon, .close-icon {
+    display: none;
+  }
+  
+}
