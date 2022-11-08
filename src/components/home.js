@@ -17,13 +17,13 @@ const Home = () => {
       <div className="text-zone">
       <h1>
       Hello, My name is Ayush Kadakia and this is my online portfolio. 
-      I am currently a sophomore computer science major at Rutgers University 
-      School of Arts and Sciences. This website includes some of my hobbies, 
-      projects I have done associated with the computer sciences field, and 
-      some of the volunteer and work experiences I have gained through my career. 
-      The portfolio was created as a method to showcase a little about myself and the work I hae done related to the computer science field. 
-      The website was made created through the react library in conjuntion with CSS, HTML,  
-      and JavaScript, and was website was deployed through the use of GitHub Pages.
+ I am currently a sophomore computer science major at Rutgers University 
+ School of Arts and Sciences. This website includes some of my hobbies, 
+ projects I have done associated with the computer sciences field, and 
+ some of the volunteer and work experiences I have gained through my career. 
+ The portfolio was created as a method to showcase a little about myself and the work I have done related to the field. 
+ The website was created through the react library in conjunction with CSS, HTML, 
+ and JavaScript, and was website was deployed through the use of GitHub Pages.
       </h1>
       </div>
       

@@ -33,7 +33,7 @@ const Favorites = () => {
       <h>
       One of my favorite sites to learn more about coding and seek entertainment from other people's 
       codes would be codepen. Codepen is an online community where individuals can showcase their 
-      unique codes in CSS, HTML, and Javascript, and the website has really transformed my view of 
+      unique codes in CSS, HTML, and Javascript, and the website has truly transformed my view of 
       what can be created with some creativity. It truly intrigues me what other people create and 
       it brings out my attraction to the computer science field. 
       <a href="https://codepen.io">
