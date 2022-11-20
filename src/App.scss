@@ -1,4 +1,4 @@
-$primary-color: #839bc8;
+$primary-color: #576785;
 
 @import 'animate.css';
 @import '~loaders.css/src/animations/pacman.scss';
@@ -25,6 +25,7 @@ $primary-color: #839bc8;
   font-weight: normal;
   font-style: normal;
 }
+
 @font-face {
   font-family: 'Bryant';
   src: url('./components/Assets/fonts/Portillo Bryant.otf') format('bryant');
@@ -33,14 +34,8 @@ $primary-color: #839bc8;
 }
 
 input,
-textarea {
-  font-family: 'Helvetica Neue', sans-serif;
-}
-
-.loader-hidden {
-  display: none;
-}
-
+textarea {font-family: 'Helvetica Neue', sans-serif}
+.loader-hidden {display: none}
 .loader-active {
   display: block;
   position: absolute;

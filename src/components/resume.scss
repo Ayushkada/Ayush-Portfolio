@@ -1,45 +1,88 @@
 .skills-page {
-  
-  size: auto;
-  width:100%;
-  height:110%;
-  background:#ffffff;
-  position: absolute;
-  left:0;
+  width: 90%;
+  position: relative;
+  left: 5%;
 
-  
+
   .title{
+  text-align: center;
+  position: relative;
+  margin-top: 6%;
+  margin-bottom:0%;
+  margin-left: auto;
+  margin-right: auto;
+  a{
+    color: #12223d;
     position: relative;
-    top: 40px;
+    font-size: 350%;
+    font-family: 'ttf';
+    font-weight: 500;
+    text-shadow: 2px 0 #fff, -2px 0 #fff, 0 2px #fff, 0 -2px #fff,
+    1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;
+    }
+  }
+
+  .skills{
+    display: inline-block;
+    margin-top: 2%;
+    text-align: center;
+    margin-left: 12%;
+    margin-right:12%;
+    margin-bottom: 3%;
+    t{
+      width: 32.5%;
+      height: auto;
+      text-align: center;
+      display: inline-block;
+      border:solid #12223d;
+      background: white;
+      margin: .1%;
+      h{
+        font-size: 150%;
+        color: #12223d;
+      }
+    }
+  }
+
+
+  .experiences{
+    border: solid #12223d;
+    margin-top: 3%;
+    margin-left: 9%;
+    margin-right:9%;
+    margin-bottom: 5%;
+    background: white;
+  }
+  
+  .title2{
+    text-align: center;
+    position: relative;
+    margin: 3%;
     left: 1%;
     margin-left: auto;
     margin-right: auto;
-
-
-t{
+    t{
     color: #12223d;
-position: relative;
-font-size: 350%;
-font-family: 'ttf';
-font-weight: 500;
-text-decoration: clip;
+    position: relative;
+    font-size: 350%;
+    font-family: 'ttf';
+    font-weight: 500;
+    text-shadow: 2px 0 #fff, -2px 0 #fff, 0 2px #fff, 0 -2px #fff,
+    1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;
+    }
+  }
 
-
-}
-}
 
   .job1{
     position: relative;
-    left: 5%;
+    left: 1%;
     top: 13%;
     width: 70%;
     max-height: 90%;
-    margin-top: 5%;
     j{
       color: #12223d;
       position: relative;
       font-size: 225%;
-      font-family: 'Coolvetica';
       font-weight: 500;
     }
   }
@@ -55,17 +98,15 @@ text-decoration: clip;
       color: #12223d;
       position: relative;
       font-size: 150%;
-      font-family: 'Coolvetica';
       font-weight: 500;
     }
   }
-  
 
   .skills1{
     position: relative;
-    left: 5%;
+    left: 1%;
     top: 7.25%;
-    width: 50%;
+    width: 98%;
     max-height: 90%;
     margin-top: 2%;
     margin-bottom: 2%;
@@ -73,7 +114,6 @@ text-decoration: clip;
       color: #12223d;
       position: relative;
       font-size: 150%;
-      font-family: 'Coolvetica';
       font-weight: 500;
     }
   }
@@ -81,25 +121,25 @@ text-decoration: clip;
   .discription1{
     position: relative;
     display: block;
-    left: 7.5%;
+    left: 5%;
     top: 11%;
     line-height: 2;
     margin-bottom: 5%;
-    width: 80%;
+    width: 90%;
     max-height: 90%;
     h{
       color: #12223d;
       display: block;
       font-size: 150%;
-      font-family: 'Coolvetica';
       font-weight: 500;
-      text-indent: -.5em;
+      text-indent: -1em;
     }
   }
 
+
   .job2{
     position: relative;
-    left: 5%;
+    left: 1%;
     top: 21%;
     width: 70%;
     max-height: 90%;
@@ -108,7 +148,6 @@ text-decoration: clip;
       color: #12223d;
       position: relative;
       font-size: 225%;
-      font-family: 'Coolvetica';
       font-weight: 500;
     }
   }
@@ -124,16 +163,15 @@ text-decoration: clip;
       color: #12223d;
       position: relative;
       font-size: 150%;
-      font-family: 'Coolvetica';
       font-weight: 500;
     }
   }
 
   .skills2{
     position: relative;
-    left: 5%;
+    left: 1%;
     top: 15.25%;
-    width: 40%;
+    width: 98%;
     max-height: 90%;
     margin-top: 2%;
     margin-bottom: 2%;
@@ -141,7 +179,6 @@ text-decoration: clip;
       color: #12223d;
       position: relative;
       font-size: 150%;
-      font-family: 'Coolvetica';
       font-weight: 500;
     }
   }
@@ -149,26 +186,26 @@ text-decoration: clip;
   .discription2{
     position: relative;
     display: block;
-    left: 7.5%;
+    left: 5%;
     top: 20%;
     line-height: 2;
-    width: 80%;
+    width: 90%;
     max-height: 90%;
     margin-bottom: 5%;
     h{
       color: #12223d;
       display: block;
       font-size: 150%;
-      font-family: 'Coolvetica';
       font-weight: 500;
-      text-indent: -.5em;
+      text-indent: -1em;
     }
   }
-  
+
+
   .job3{
     margin-top: 5%;
     position: relative;
-    left: 5%;
+    left: 1%;
     top: 32%;
     width: 70%;
     max-height: 90%;
@@ -176,7 +213,6 @@ text-decoration: clip;
       color: #12223d;
       position: relative;
       font-size: 225%;
-      font-family: 'Coolvetica';
       font-weight: 500;
     }
   }
@@ -192,16 +228,15 @@ text-decoration: clip;
       color: #12223d;
       position: relative;
       font-size: 150%;
-      font-family: 'Coolvetica';
       font-weight: 500;
     }
   }
 
   .skills3{
     position: relative;
-    left: 5%;
+    left: 1%;
     top: 26.25%;
-    width: 50%;
+    width: 98%;
     max-height: 90%;
     margin-top: 2%;
     margin-bottom: 2%;
@@ -209,7 +244,6 @@ text-decoration: clip;
       color: #12223d;
       position: relative;
       font-size: 150%;
-      font-family: 'Coolvetica';
       font-weight: 500;
     }
   }
@@ -217,20 +251,19 @@ text-decoration: clip;
   .discription3{
     position: relative;
     display: block;
-    left: 7.5%;
+    left: 5%;
     top: 30%;
     list-style-position: inside;
     line-height: 2;
-    width: 80%;
+    width: 90%;
     max-height: 90%;
     h{
       color: #12223d;
       display: block;
       font-size: 150%;
       list-style-position: inside;
-      font-family: 'Coolvetica';
       font-weight: 500;
-      text-indent: -.5em;
+      text-indent: -1em;
     }
   }
 }

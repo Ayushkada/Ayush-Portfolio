@@ -1,55 +1,129 @@
 .favorites-page {
-    size: auto;
-  width:100%;
-  height:100%;
-  background:#ffffff;
-  position: absolute;
-  left:0;
     
-    
-    .text-zone {
-      position: relative;
-      left: 15%;
-      top: 5%;
-      width: 70%;
-      margin-top: 5%;
-      margin-bottom: 2%;
-      display: block;
-    }
-  
-    h {
+
+  .title{
+    text-align: center;
+    position: relative;
+    top: 40px;
+    margin: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    t{
+      text-align: center;
       color: #12223d;
       position: relative;
-      font-size: 130%;
-      font-family: 'Coolvetica';
+      font-size: 350%;
+      font-family: 'ttf';
       font-weight: 500;
-      display:block;
-      margin: 7.5%;
-      a{
-        position: relative;
-        left: 1%;
+      text-shadow: 2px 0 #fff, -2px 0 #fff, 0 2px #fff, 0 -2px #fff,
+                  1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;
     }
-  
-    }
-   
-   
-    
-    .title{
-        text-align: center;
-        position: relative;
-        top: 40px;
-        margin-left: auto;
-        margin-right: auto;
+  }
 
+  .zone{
+    margin-top: 4%;
+    margin-left: 9%;
+    margin-right:9%;
+    margin-bottom: 5%;
+  }
 
-    t{
-        color: #12223d;
+  .txt1{
     position: relative;
-    font-size: 350%;
-    font-family: 'ttf';
-    font-weight: 500;
-    text-decoration: clip;
+    display: block;
+    top: 10%;
+    line-height: 1.5;
+    max-height: 90%;
+    
+    h{
+      color: #12223d;
+      display: block;
+      font-size: 150%;
+      font-weight: 500;
+      width: 90%;
+    }
+  }
 
+  .pt1{
+    position: relative;
+    height: auto;
+    display: inline-flex;
+    margin-bottom: 10%;
+    margin-top: 5%;
+    line-break:auto;
+  }
+
+  h1{
+    position: relative;
+    font-size: 120%;
+      font-weight: 500;
+      color: #12223d;
+      margin: 1%;
+  }
+
+  .player-wrapper {
+    position: relative;
+    padding-top: 50%; /* 720 / 1280 = 0.5625 */
+    margin: auto;
+  }
+  
+  .react-player {
+    position: absolute;
+    top: 0;
+  }
+
+  .txt2{
+    position: relative;
+    display: block;
+    top: 10%;
+    line-height: 1.5;
+    max-height: 90%;
+    left: 7.5%;
+    text-align: right;
+
+    
+    h{
+      color: #12223d;
+      display: block;
+      font-size: 150%;
+      font-weight: 500;
+      width: 90%;
     }
+  }
+
+  .pt2{
+    position: relative;
+    height: auto;
+    display: inline-flex;
+    margin-bottom: 10%;
+    line-break:auto;
+  }
+
+  .temp{
+    width: 200%;;
+    position: relative;
+  }
+  h2{
+    position: relative;
+    font-size: 120%;
+      font-weight: 500;
+      color: #12223d;
+      margin: 1%;
+  }
+
+  .player-wrapper2 {
+    position: relative;
+    padding-top: 56.25%;
+    margin: auto;
+    width: 100%;
+  }
+
+
+  .img2{
+    position: relative;
+    img{
+      width: 150%;
+    }
+
+  }
+
 }
-    }
