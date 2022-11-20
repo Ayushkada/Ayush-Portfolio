@@ -1,20 +1,26 @@
 {
   "files": {
-    "main.css": "/Ayush-Portfolio/static/css/main.7cb7ac52.css",
-    "main.js": "/Ayush-Portfolio/static/js/main.fbfb29dd.js",
+    "main.css": "/Ayush-Portfolio/static/css/main.116109c8.css",
+    "main.js": "/Ayush-Portfolio/static/js/main.26bbb44e.js",
     "static/media/me.jpeg": "/Ayush-Portfolio/static/media/me.15bd525739cd46ed2ae5.jpeg",
+    "static/media/Screen Shot 2022-11-20 at 3.48.04 PM.png": "/Ayush-Portfolio/static/media/Screen Shot 2022-11-20 at 3.48.04 PM.c607937dc2ff066fbd0b.png",
+    "static/media/Screen Shot 2022-11-20 at 3.46.06 PM.png": "/Ayush-Portfolio/static/media/Screen Shot 2022-11-20 at 3.46.06 PM.670ace925e7572fef389.png",
+    "static/media/Screen Shot 2022-11-20 at 3.48.56 PM.png": "/Ayush-Portfolio/static/media/Screen Shot 2022-11-20 at 3.48.56 PM.f34c3f079271cf5bf59d.png",
+    "static/media/Screen Shot 2022-11-20 at 3.46.43 PM.png": "/Ayush-Portfolio/static/media/Screen Shot 2022-11-20 at 3.46.43 PM.771b5ebb7c274a31e19e.png",
     "static/media/Portillo Bryant.otf": "/Ayush-Portfolio/static/media/Portillo Bryant.cddebe31935113d73f5a.otf",
+    "static/media/My project.png": "/Ayush-Portfolio/static/media/My project.6acdaeb4bdf3d1d9a500.png",
     "static/media/helvetica-neu.ttf": "/Ayush-Portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
     "static/media/LaBelleAurore.woff": "/Ayush-Portfolio/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
+    "static/media/ezgif.com-gif-maker-removebg-preview-2.png": "/Ayush-Portfolio/static/media/ezgif.com-gif-maker-removebg-preview-2.1261348896268fef234e.png",
     "static/media/LaBelleAurore.woff2": "/Ayush-Portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
     "static/media/CoolveticaRg-Regular.woff": "/Ayush-Portfolio/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
     "static/media/CoolveticaRg-Regular.woff2": "/Ayush-Portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/Ayush-Portfolio/index.html",
-    "main.7cb7ac52.css.map": "/Ayush-Portfolio/static/css/main.7cb7ac52.css.map",
-    "main.fbfb29dd.js.map": "/Ayush-Portfolio/static/js/main.fbfb29dd.js.map"
+    "main.116109c8.css.map": "/Ayush-Portfolio/static/css/main.116109c8.css.map",
+    "main.26bbb44e.js.map": "/Ayush-Portfolio/static/js/main.26bbb44e.js.map"
   },
   "entrypoints": [
-    "static/css/main.7cb7ac52.css",
-    "static/js/main.fbfb29dd.js"
+    "static/css/main.116109c8.css",
+    "static/js/main.26bbb44e.js"
   ]
 }
