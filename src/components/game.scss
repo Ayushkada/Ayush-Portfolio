@@ -1,7 +1,6 @@
 .game-page {
   size: auto;
   width:100%;
-  height:110%;
   position: absolute;
   left:0;
   
@@ -11,8 +10,9 @@
     position: relative;
     top: 40px;
     margin-left: auto;
-    margin: 1%;
     margin-right: auto;
+    margin-top: 2%;
+    margin-bottom: 3%;
     text-shadow: 2px 0 #fff, -2px 0 #fff, 0 2px #fff, 0 -2px #fff,
                1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;
     t{
@@ -25,19 +25,35 @@
   }
 
 
+  .phone{
+    margin: 2%;
+  }
+  a {
+    color: #12223d;
+    position: relative;
+    font-size: 150%;
+    font-weight: 500;
+    text-decoration: clip;
+    margin-top: 5%;
+    &:hover {
+      color: #0401cb;
+    }
+  }
   .text-zone {
     position: relative;
-    top:70%;
     width: 80%;
     line-height: 1.5;
     margin-left: auto;
     margin-right: auto;
-    h1 {
+    text-align: center;
+    margin-top: 15%;
+    h {
       color: #12223d;
       position: relative;
-      font-size: 130%;
+      font-size: 150%;
       font-weight: 500;
       text-decoration: clip;
+      margin-top: 5%;
     }
   }
 }

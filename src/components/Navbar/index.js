@@ -21,7 +21,7 @@ const Navbar = () => {
           Projects
         </NavLink>
         <NavLink to="game" activeStyle>
-          Game
+          Contact
         </NavLink>
         <a
           href="https://www.linkedin.com/in/ayush-kadakia-b34557228/"
