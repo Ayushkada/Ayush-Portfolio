@@ -1,8 +1,8 @@
 import React from 'react';
 import './favorites.scss'
-import codepen from '/Users/ayush/Desktop/react-portfolio/src/components/Assets/images/ezgif.com-gif-maker-removebg-preview-2.png'
+import codepen from './Assets/images/ezgif.com-gif-maker-removebg-preview-2.png'
 import ReactPlayer from 'react-player'
-import github from '/Users/ayush/Desktop/react-portfolio/src/components/Assets/images/github-logo.png'
+import github from './Assets/images/github-logo.png'
 
 const Favorites = () => {
   return (

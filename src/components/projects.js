@@ -1,13 +1,13 @@
 import React from 'react';
 import './projects.scss'
-import resillence from '/Users/ayush/Desktop/react-portfolio/src/components/Assets/images/My project.png'
+import resillence from './Assets/images/My project.png'
 import AwesomeSlider from 'react-awesome-slider';
 import withAutoplay from 'react-awesome-slider/dist/autoplay';
 import 'react-awesome-slider/dist/styles.css';
-import transit from '/Users/ayush/Desktop/react-portfolio/src/components/Assets/images/Screen Shot 2022-11-20 at 3.46.43 PM.png'
-import warehouse from '/Users/ayush/Desktop/react-portfolio/src/components/Assets/images/Screen Shot 2022-11-20 at 3.48.56 PM.png'
-import collage from '/Users/ayush/Desktop/react-portfolio/src/components/Assets/images/Screen Shot 2022-11-20 at 3.48.04 PM.png'
-import huffman from '/Users/ayush/Desktop/react-portfolio/src/components/Assets/images/Screen Shot 2022-11-20 at 3.46.06 PM.png'
+import transit from './Assets/images/Screen Shot 2022-11-20 at 3.46.43 PM.png'
+import warehouse from './Assets/images/Screen Shot 2022-11-20 at 3.48.56 PM.png'
+import collage from './Assets/images/Screen Shot 2022-11-20 at 3.48.04 PM.png'
+import huffman from './Assets/images/Screen Shot 2022-11-20 at 3.46.06 PM.png'
 
 const AutoplaySlider = withAutoplay(AwesomeSlider);
   
@@ -21,16 +21,14 @@ const Projects = () => {
       <div className="pt1">
       <div className = "txt1">
         <h>
-          One of the projects I created in C was a matrix calculator. The project allows the user to input one or more files that contain the matrix and dimensions of the matrix. 
-          They can choose whether they want to find the transpose of a matrix, the inverse of a matrix, or multiply two or more matrices and/or vectors. For the multiplication and 
-          inverse calculations, there is an error message returned if the dimensions do not allow the multiplication of two matrices or the calculation of the inverse matrix. 
+        Developed a sophisticated 2D ship simulation with a grid layout, wherein individual cells unfold in a unique snake-like design. An algorithm I implemented designates random open cells for the initialization of three core elements: a bot, a button, and a fire source. The model also features a dynamic fire spread mechanism, whereby fire extends to neighboring cells based on a user-defined flammability probability. A standout feature is the incorporation of three different bot navigation strategies. Bot 1 aims to locate the button while steering clear of the initial fire, Bot 2 circumnavigates all fire cells on its quest to the button, and Bot 3 exhibits the utmost caution, primarily avoiding fire cells and their immediate neighbors, with a fallback strategy when needed. The primary navigation and pathfinding approach I utilized for these bots was the Breadth-First Search (BFS) algorithm, ensuring efficient and effective bot movement throughout the simulation.
         </h>
       </div>
       <div className="temp">
         <t> 
-            Matrix Calculator:
+        2D Ship Simulation and Fire Propagation Model (Java)
             <a
-            href="https://github.com/Ayushkada/Ayush-Portfolio/blob/main/matrixCalculator.c"
+            href="https://github.com/Ayushkada/Java-Projects/tree/main/2D%20Ship%20Simulation%20and%20Fire%20Propagation%20Model%20(Java)"
             target="_blank"
             rel="noreferrer">
             View

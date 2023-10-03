@@ -44,7 +44,7 @@ const Navbar = () => {
             className="anchor-icon"/>
         </a>
         <a
-          href="https://drive.google.com/file/d/1wc6q5aToWkDKUT8R3yp2G1PDQ9hNmjzL/view?usp=share_link"
+          href="https://drive.google.com/file/d/1aUBewnMTkFTA1ojgGQRwRjHe96h5FqbG/view?usp=sharing"
           target="_blank"
           rel="noreferrer"
         >
