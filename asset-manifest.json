@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Ayush-Portfolio/static/css/main.d1f7b381.css",
-    "main.js": "/Ayush-Portfolio/static/js/main.549588b2.js",
-    "static/media/me.jpeg": "/Ayush-Portfolio/static/media/me.15bd525739cd46ed2ae5.jpeg",
+    "main.css": "/Ayush-Portfolio/static/css/main.3efb6acd.css",
+    "main.js": "/Ayush-Portfolio/static/js/main.887a05f5.js",
+    "static/media/Kadakia_A_17.jpg": "/Ayush-Portfolio/static/media/Kadakia_A_17.e23518cb4f689588a6c1.jpg",
     "static/media/Screen Shot 2022-11-20 at 3.48.04 PM.png": "/Ayush-Portfolio/static/media/Screen Shot 2022-11-20 at 3.48.04 PM.c607937dc2ff066fbd0b.png",
     "static/media/Screen Shot 2022-11-20 at 3.46.06 PM.png": "/Ayush-Portfolio/static/media/Screen Shot 2022-11-20 at 3.46.06 PM.670ace925e7572fef389.png",
     "static/media/Screen Shot 2022-11-20 at 3.48.56 PM.png": "/Ayush-Portfolio/static/media/Screen Shot 2022-11-20 at 3.48.56 PM.f34c3f079271cf5bf59d.png",
@@ -16,11 +16,11 @@
     "static/media/CoolveticaRg-Regular.woff": "/Ayush-Portfolio/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
     "static/media/CoolveticaRg-Regular.woff2": "/Ayush-Portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/Ayush-Portfolio/index.html",
-    "main.d1f7b381.css.map": "/Ayush-Portfolio/static/css/main.d1f7b381.css.map",
-    "main.549588b2.js.map": "/Ayush-Portfolio/static/js/main.549588b2.js.map"
+    "main.3efb6acd.css.map": "/Ayush-Portfolio/static/css/main.3efb6acd.css.map",
+    "main.887a05f5.js.map": "/Ayush-Portfolio/static/js/main.887a05f5.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1f7b381.css",
-    "static/js/main.549588b2.js"
+    "static/css/main.3efb6acd.css",
+    "static/js/main.887a05f5.js"
   ]
 }
